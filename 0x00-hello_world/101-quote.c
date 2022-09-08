@@ -3,7 +3,7 @@
 /**
  * main - prints to the standard error
  *
- * Return: one
+ * Return: 1
  */
 
 int main(void)
