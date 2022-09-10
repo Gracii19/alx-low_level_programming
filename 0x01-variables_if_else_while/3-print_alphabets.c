@@ -3,11 +3,11 @@
  /**
   * main - Print alphabet in lowercase and uppercase
   *
-  * Description: 'Prints the alphabet in lowercase, uppercase then a new line'
-  *
-  * Return: Always zero
+  * Return: Always 0
   */
+
 int main(void)
+
 {
 	char letter;
 	char LETTER;
