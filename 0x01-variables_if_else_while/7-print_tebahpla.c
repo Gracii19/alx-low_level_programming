@@ -3,8 +3,8 @@
  /**
   * main - Entry point
   *
-  *Description: 'program that prints the lowercase alphabet in reverse'
-  *Return: Always 0.
+  *Description: 'prints the lowercase alphabet in reverse'
+  *Return: zero
   */
 int main(void)
 {
