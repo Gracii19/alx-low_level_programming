@@ -1,7 +1,7 @@
 #include <stdio.h>
 
  /**
-  * main - print digits of base 10 starting from 0
+  * main - Entry point
   *
   * Description: 'main is the entry point'
   * Return: Always 0
