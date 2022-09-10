@@ -1,23 +1,20 @@
 #include <stdio.h>
 
 /**
- * main - print if the number is positive, zero or negative
+ * main - Pribys the alphabet in lowercase.
  *
- * Description: using the main function
- * this program prints "Programming is positive, zero or negative
- * Return: 0
+ * Return: Always 0
  */
 
 int main(void)
 
 {
 
-	char ch;
+	char letter;
 
-	for (ch = 'a' ; ch <= 'z' ; ch++
-}
+	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(ch);
-{
+
 	putchar('\n');
 
 	return (0);
