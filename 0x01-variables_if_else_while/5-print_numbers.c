@@ -3,13 +3,11 @@
  /**
   * main - print digits of base 10 starting from 0
   *
-  * Decription: main is the entry point
-  *
+  * Description: 'main is the entry point'
   * Return: Always 0
   */
 
 int main(void)
-
 {
 	int num;
 
