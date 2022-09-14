@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- *  2-print_alphabet_x10.c - prints the alphabet in lowercase
- *  followed by new line.
+ * print_alphabet_x10 - prints alphabet in lowercase
+ * followed by new line.
  *
- *  Return: Always 0.
+ * Return: Always 0.
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int i;
 	int j;
